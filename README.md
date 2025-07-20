@@ -2,7 +2,7 @@
 ### NASURLA_KAAN_315CC
 ### Timp de implementare: 30 ore
 ### Scurt rezumat pe taskuri:
-# ====== TASK 1 =========
+## ====== TASK 1 =========
 acesta functie este responsabila cu citirea de la tastatura 
 ps: trebuie mare atentie la alocarea memoriei, altfel ai o gramada de segfaulturi
 ====== TASK 2 =========
